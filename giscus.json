@@ -1,4 +1,4 @@
 {
-  "origins": ["https://bugong.dpdns.org""https://bugongjun.dpdns.org"],
+  "origins": ["https://bugong.dpdns.org","https://bugongjun.dpdns.org"],
   "originsRegex": ["http://localhost:[0-9]+"]
 }
