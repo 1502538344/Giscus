@@ -1,3 +1,4 @@
 {
   "origins": ["https://bugong.dpdns.org"]
+  "origins": ["http://localhost:4321"]
 }
